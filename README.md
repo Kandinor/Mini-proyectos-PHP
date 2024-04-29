@@ -8,7 +8,7 @@ Estos proyectos incluyen una aplicación de gestión de gastos, entre otros.
 
 ## Proyectos
 
-### App de Gastos
+### [App de Gastos](app-Gastos/)
 - **Descripción**: Aplicación para el registro y seguimiento de gastos personales.
 - **Tecnologías**: PHP, Composer, MySQL.
 - **Estructura**:
