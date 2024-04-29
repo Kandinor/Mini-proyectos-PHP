@@ -1,0 +1,15 @@
+{
+    "name": "andino/gastos",
+    "autoload": {
+        "psr-4": {
+            "Andino\\Gastos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kandinor",
+            "email": "andinokarla447@gmail.com"
+        }
+    ],
+    "require": {}
+}
