@@ -11,5 +11,5 @@ if(isset($_GET["view"])){
     require"src/{$view}.php";
 
 }else{
-    require"src//home.php";
+    require"src//home.php"; //2 barras?
 }

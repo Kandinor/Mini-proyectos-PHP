@@ -1,5 +1,5 @@
 /*Se crea la tabla para categorias y otra para gastos, 
-siendo que una categoria puede tener muchos gastos y esos gastos pertenecen a uma categoria*/
+siendo que una categoria puede tener muchos gastos y esos gastos pertenecen a una categoria*/
 
 CREATE TABLE categories(
     id int NOT NULL AUTO_INCREMENT,

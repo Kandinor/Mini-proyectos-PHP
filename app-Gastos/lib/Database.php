@@ -1,5 +1,5 @@
 <?php
-/**coo estamos utilizando autoload de compouser, se necesita un namespace */
+/**como estamos utilizando autoload de compouser, se necesita un namespace */
 namespace andino\gastos\lib;
 
 use PDO;
